@@ -1,7 +1,8 @@
 {
   // Place your settings in this file to overwrite default and user settings.
+  "editor.fontSize": 20,
   "javascript.validate.enable": false,
   "editor.minimap.enabled": false,
-  "flow.useNPMPackagedFlow": true,
+  // "flow.useNPMPackagedFlow": true,
   "git.ignoreLimitWarning": true
 }
