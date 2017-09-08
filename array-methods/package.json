@@ -2,7 +2,7 @@
   "name": "array-methods",
   "version": "1.0.0",
   "description": "Use native JavaScript Array methods to refactor legacy code",
-  "main": "index.test.js",
+  "main": "before.test.js",
   "scripts": {
     "test": "jest"
   },
