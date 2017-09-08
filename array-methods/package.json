@@ -1,0 +1,26 @@
+{
+  "name": "array-methods",
+  "version": "1.0.0",
+  "description": "Use native JavaScript Array methods to refactor legacy code",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "underscore",
+    "javascript",
+    "vanilla javascript",
+    "refactor",
+    "legacy code",
+    "functional programming"
+  ],
+  "author": "kutyel <flaviocorpa@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "jest": "^21.0.1"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
